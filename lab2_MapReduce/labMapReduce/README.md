@@ -1,9 +1,12 @@
 Adicione a pasta labMapReduce no seu $GOPATH/src
+
 o $GOPATH é o diretório onde você armazena seus códigos Go.
 
 Para compilar:
-Entrar em $GOPATH/src/labMapReduce/wordcount
-Executar: go build
+
+Entrar em '''$GOPATH/src/labMapReduce/wordcount'''
+
+Executar: '''go build'''
 
 Para executar:
 Para rodar:
