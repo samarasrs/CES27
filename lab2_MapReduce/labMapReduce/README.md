@@ -4,7 +4,7 @@ o $GOPATH é o diretório onde você armazena seus códigos Go.
 
 Para compilar:
 
-Entrar em '''$GOPATH/src/labMapReduce/wordcount'''
+Entrar em ´´´$GOPATH/src/labMapReduce/wordcount´´´
 
 Executar: '''go build'''
 
