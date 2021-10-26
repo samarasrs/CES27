@@ -11,7 +11,9 @@ Entrar em ```$GOPATH/src/labMapReduce/wordcount```
 
 ## Sequetial:
 Executar: ```wordcount.exe -mode sequential -file files/teste.txt -chunksize 100 -reducejobs 2```
+
 Obs1: Esse arquivo teste.txt é o que será processado e está na pasta files.
+
 Obs2: Os valores de ```-chunksize``` e ```-reducejobs``` podem ser modificados conforme o desejado, bem como o arquivo de entrada.
 
 ## Distributed:
